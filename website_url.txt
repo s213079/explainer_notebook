@@ -1,0 +1,7 @@
+Link to the website for Part B:
+    https://s213079.github.io/energydata.github.io/
+
+
+Links to repositories from which the website is hosted:
+    https://github.com/s213079/energydata.github.io
+    https://github.com/s213079/energydata
