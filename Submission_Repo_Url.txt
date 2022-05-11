@@ -1,0 +1,17 @@
+
+Submission for:
+    Rasmus Grunnet-Jepsen s213079
+    Panagiotis Apostolidis s176453
+    Gabriel Franz Koenig s220433
+
+Master submission repository for group:
+    https://github.com/s213079/explainer_notebook
+
+Website URL:
+    https://s213079.github.io/energydata.github.io/
+
+    Repositories with the website files:
+        https://github.com/s213079/energydata.github.io
+        https://github.com/s213079/energydata
+
+
